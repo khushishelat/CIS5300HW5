@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1700703652 "/Users/justinzhou/Dev/CIS5300HW5/writeup/main.tex" "main.pdf" "main" 1700703652
-  "/Users/justinzhou/Dev/CIS5300HW5/writeup/main.tex" 1700703652 10557 b8d0c2db98ae08f5f48e30d6a72c50ec ""
+["pdflatex"] 1700703948 "/Users/justinzhou/Dev/CIS5300HW5/writeup/main.tex" "main.pdf" "main" 1700703948
+  "/Users/justinzhou/Dev/CIS5300HW5/writeup/main.tex" 1700703948 10623 c798a30a331121a4973112d5ed9b19a7 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -44,8 +44,8 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1673888971 2826443 d42c3c323388a9e07201f8c6d98a1c43 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "chart.png" 1700703004 641020 4093ecfebc7760d0f7f166761f36ac7a ""
-  "main.aux" 1700703652 945 1ad409a235850bb62b17b82085c608af "pdflatex"
-  "main.tex" 1700703652 10557 b8d0c2db98ae08f5f48e30d6a72c50ec ""
+  "main.aux" 1700703948 945 1ad409a235850bb62b17b82085c608af "pdflatex"
+  "main.tex" 1700703948 10623 c798a30a331121a4973112d5ed9b19a7 ""
   (generated)
   "main.aux"
   "main.log"
